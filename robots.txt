@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ufeezighoo.jakeandjenny.co/sitemap.xml
